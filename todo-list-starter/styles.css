@@ -51,4 +51,23 @@ input[type="button"] {
 
 .complete {
     text-decoration: line-through;
+    color: gray;
+}
+
+.important {
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.overdue {
+    background-color: red;
+    color: white;
+}
+
+.due-soon {
+    background-color: orange;
+}
+
+.upcoming {
+    background-color: lightgreen;
 }

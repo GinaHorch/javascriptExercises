@@ -1,0 +1,6 @@
+Date format - the HTML5 type='date' automatically offers a widget to pick a date.
+However, the date format is in year-month-date.
+Option1: convert date via JavaScript after selecting the due date
+Option2: use a date picker library that offers different formats
+
+I would prefer option 2, however, for the exercise of practising JavaScript I will convert the date using JavaScript.
